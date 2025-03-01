@@ -1,54 +1,64 @@
-CUDA Research Platform
+🚀 CUDA Research Platform
 
-A comprehensive web application for analyzing and visualizing CUDA performance optimization techniques, built with React and TypeScript. This project was bootstrapped using bolt.new.
+A web application designed for analyzing and visualizing CUDA performance optimization techniques, built with React and TypeScript. This project was bootstrapped using bolt.new.
 
-Features
+🎯 Key Features
 
-Performance Analysis Dashboard
+📊 Performance Analysis Dashboard
 
-Real-time visualization of execution metrics
+📈 Real-time visualization of execution metrics
 
-Comparative analysis of optimized vs unoptimized code
+🔍 Comparative analysis of optimized vs. unoptimized code
 
-Energy efficiency monitoring
+⚡ Energy efficiency monitoring
 
-Memory usage tracking
+💾 Memory usage tracking
 
-CUDA Optimization Tools
+🛠 CUDA Optimization Tools
 
-Memory access pattern analysis
+🔄 Memory access pattern analysis
 
-Similarity hit analyzer
+🎯 Similarity hit analyzer
 
-Valgrind memory profiler integration
+🛑 Valgrind memory profiler integration
 
-Energy efficiency monitor
+⚡ Energy efficiency monitor
 
-Interactive Learning
+📚 Interactive Learning
 
-Step-by-step CUDA tutorials
+📖 Step-by-step CUDA tutorials
 
-Video-based learning resources
+🎥 Video-based learning resources
 
-Code snippets and examples
+💻 Code snippets and examples
 
-Performance optimization techniques
+🚀 Performance optimization techniques
 
-Tech Stack
+🏗️ Tech Stack
 
-Frontend: React 18, TypeScript, Vite
+Category
 
-Styling: TailwindCSS
+Technology
 
-Data Visualization: Recharts
+🎨 Frontend
 
-Routing: React Router
+React 18, TypeScript, Vite
 
-Getting Started
+🎨 Styling
 
-To set up and run this project locally, follow these steps:
+TailwindCSS
 
-Prerequisites
+📊 Data Visualization
+
+Recharts
+
+🌐 Routing
+
+React Router
+
+⚡ Getting Started
+
+📌 Prerequisites
 
 Ensure you have the following installed:
 
@@ -56,22 +66,19 @@ Node.js (Latest LTS recommended)
 
 npm or yarn
 
-Installation
+🔧 Installation
 
-Clone the repository:
-
+# Clone the repository
 git clone https://github.com/yourusername/cuda-research-platform.git
 cd cuda-research-platform
 
-Install dependencies:
-
+# Install dependencies
 npm install
 
-Start the development server:
-
+# Start the development server
 npm run dev
 
-Project Structure
+📂 Project Structure
 
 src/
 ├── components/         # Reusable UI components
@@ -79,21 +86,21 @@ src/
 ├── pages/             # Main application pages
 └── utils/             # Helper functions and utilities
 
-Contributing
+🤝 Contributing
 
 We welcome contributions! To contribute:
 
-Fork the repository
+🔀 Fork the repository
 
-Create a feature branch (git checkout -b feature-name)
+🌿 Create a feature branch (git checkout -b feature-name)
 
-Commit your changes (git commit -m 'Add feature')
+💾 Commit your changes (git commit -m 'Add feature')
 
-Push to the branch (git push origin feature-name)
+📤 Push to the branch (git push origin feature-name)
 
-Create a Pull Request
+🔄 Create a Pull Request
 
-Credits
+🏆 Credits
 
 Built with bolt.new
 
@@ -101,8 +108,6 @@ CUDA optimization techniques and research data
 
 React and TypeScript ecosystem
 
-License
+📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Created with ❤️ using bolt.new
